@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, NextJS, Firebase, Typescript**
 
-- 👨‍💻 All of my projects are available at [clifcodes.netlify.app](clifcodes.netlify.app)
+- 👨‍💻 All of my projects are available at [https://clifcodes.netlify.app](https://clifcodes.netlify.app)
 
 - 📫 How to reach me **clifcodes@gmail.com**
 
