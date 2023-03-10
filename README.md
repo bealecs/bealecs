@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Pips With Paul](https://github.com/bealecs/pipswithpaul)
 
-- 🌱 I’m currently learning **JavaScript, React, NextJS, Firebase, Typescript and more**
+- 🌱 I’m currently learning **JavaScript, React, NextJS, Firebase, Typescript, and more**
 
 - 👨‍💻 All of my projects are available at [https://clifcodes.netlify.app](https://clifcodes.netlify.app)
 
