@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bealecs&label=Profile%20views&color=0e75b6&style=flat" alt="bealecs" /> </p>
 
-- 🔭 I’m currently working on [Vets Who Code](https://github.com/bealecs/js-web-path-bealecs)
+- 🔭 I’m currently working on [Vets Who Code](https://github.com/Vets-Who-Code/js-web-path-bealecs)
 
 - 🌱 I’m currently learning **JavaScript, React, NextJS, Firebase, Typescript, and more**
 
