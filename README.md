@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, NextJS, Firebase, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://clif.codes](https://clif.codes)
+- 👨‍💻 All of my projects are available at [Clif Codes](https://clif.codes)
 
 
 <h3 align="left">Connect with me:</h3>
