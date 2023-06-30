@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Vets Who Code](https://github.com/Vets-Who-Code/js-web-path-bealecs)
 
-- 🌱 I’m currently learning **JavaScript, React, NextJS, Firebase, Typescript**
+- 🌱 I’m currently learning **JavaScript, React, Next.js, Node.js, Firebase, Typescript**
 
 - 👨‍💻 All of my projects are available at [Clif Codes](https://clif.codes)
 
