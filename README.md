@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bealecs&label=Profile%20views&color=0e75b6&style=flat" alt="bealecs" /> </p>
 
-- 🔭 I’m currently working on **Next Meal** which can be found [here](https://github.com/bealecs/NextMeal)
+- 🔭 I’m currently working on **Clif Codes Freelance** which can be found [here](https://github.com/bealecs/ClifCodes)
 
 - 🌱 I’m currently learning **JavaScript, React, Next.js, Node.js, Typescript**
 
