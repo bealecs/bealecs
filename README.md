@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Next.js, Node.js, Typescript**
 
-- 👨‍💻 All of my projects are available at [Clif Codes](https://clif.codes)
+- 👨‍💻 I've started working as a freelance agent. Check out my page @ [Clif Codes](https://clifcodes.dev)
 
 
 <h3 align="left">Connect with me:</h3>
