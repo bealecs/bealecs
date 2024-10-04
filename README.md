@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clif</h1>
-<h3 align="center">An eager Software Developer from Wisconsin</h3>
+<h3 align="center">Freelance Software Developer from Wisconsin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bealecs&label=Profile%20views&color=0e75b6&style=flat" alt="bealecs" /> </p>
 
